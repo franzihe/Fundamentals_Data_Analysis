@@ -3,7 +3,7 @@ This course introduces students to essential statistical and conceptual tools fo
 (https://chess.w.uib.no/event/fundamentals-of-ocean-atmosphere-data-analysis-2020/?instance_id=105)
 
 
-The course is build on jLab functions created by Lilly, J. M. (2019). Here we use Python to reproduce statistics on multidimensional climate data from historical CMIP6 runs.
+The course is build on Matlab jLab functions created by Lilly, J. M. (2019). Here we use Python to reproduce statistics on multidimensional climate data from historical CMIP6 runs.
 
 
 ## HOW TO CITE
