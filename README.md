@@ -9,12 +9,13 @@ Hellmuth, Franziska, Van Dijk, Evelien, Lilly, Jonathan, (2020), jLab for Python
 - jupyter
 - jupyterlab
 - numpy
-- pandas
-- matplotlib
-- basemap
-- netcdf4
 - xarray
+- matplotlib
+- seaborn
 - cartopy
+- glob
+- scipy
+- pyngl
 
 ## References
 Lilly, J. M. (2019), jLab: A data analysis package for Matlab, v. 1.6.6, http://www.jmlilly.net/jmlsoft.html. 
