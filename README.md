@@ -13,6 +13,7 @@ Hellmuth, Franziska, Van Dijk, Evelien, Lilly, Jonathan, (2020), jLab for Python
 ## Necessary Python 3.7 packages
 - jupyter
 - jupyterlab
+- dask
 - numpy
 - xarray
 - matplotlib
