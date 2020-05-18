@@ -1,6 +1,8 @@
 # CHESS - Fundamentals of Ocean/Atmosphere Data Analysis supported 
 This course introduces students to essential statistical and conceptual tools for analyzing any type of dataset from oceanography, atmospheric science, or climate. At the end of the course, students will be well-prepared to begin efficiently analyzing any dataset they might encounter, while avoiding common pitfalls.  Students gain practical experience through hands-on demonstrations and exercises in Matlab. 
-https://chess.w.uib.no/event/fundamentals-of-ocean-atmosphere-data-analysis-2020/?instance_id=105
+(https://chess.w.uib.no/event/fundamentals-of-ocean-atmosphere-data-analysis-2020/?instance_id=105)
+
+
 The course is build on jLab functions created by Lilly, J. M. (2019). Here we use Python to reproduce statistics on multidimensional climate data from historical CMIP6 runs.
 
 
